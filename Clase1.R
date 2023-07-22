@@ -1,6 +1,11 @@
 ## Realizado por: Erick Vázquez
 ## Como instalar paquetes
 ## 22/07/2023
+##M.,KDFNLJKSHFL
+###NLDSFJNLDSKF1JN 
+###ÑLSDFMLÑDKSM
+
+#FLDHJKSLFJKDLS
 install.packages("tidyverse")
 install.packages("gapminder")
 install.packages("viridis")
